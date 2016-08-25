@@ -1,0 +1,14 @@
+layout_spectrum: 0.16663530142977834
+typography_spectrum: 0.3645870613399893
+color:
+  brandStrength: 0.39164063544012606
+  lightness: 0.22670379932969809
+  saturation: 0.5056669088080525
+  rhythmicContrast: 0.1304013521876186
+  brandColors:
+    - '#F7F2B2'
+    - '#ADCF4F'
+    - '#84815B'
+    - '#4A1A2C'
+    - '#8E3557'
+name: muted breakfast
